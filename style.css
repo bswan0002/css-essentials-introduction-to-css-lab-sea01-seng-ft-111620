@@ -13,8 +13,9 @@ div {
 
 #main-header {
   color:red;
+  font-size: 22px;
 }
 
 .perspective-questions {
-
+  font-style: italic;
 }
